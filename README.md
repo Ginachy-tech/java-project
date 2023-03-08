@@ -1,2 +1,2 @@
 # java-project
-maven-standlone-application
+maven-standalone-application
